@@ -1,0 +1,7 @@
+models
+*.jpg
+*.jpeg
+*.png
+*.pyc
+*.csv
+.ipynb*
